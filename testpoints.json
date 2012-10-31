@@ -1,0 +1,13 @@
+{"hotspots": [{
+   "id": "test_1",
+   "anchor": { "geolocation": { "lat": 33.7604922, "lon": -84.3221838 } },  
+   "text": {
+     "title": "The Big Nerd Ranch", 
+     "description": "The Location of BNR office", 
+     "footnote": "BNR" },
+ "imageURL": "http:\/\/weblog.bignerdranch.com\/wp-content\/themes\/wp-andreas01-12\/img\/noword.gif",
+ }], 
+ "layer": "testloc",
+ "errorString": "ok", 
+ "errorCode": 0
+} 
